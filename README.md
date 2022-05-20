@@ -89,17 +89,25 @@ else {
 ```
 
 ### Screenshots
-System not supported: 
+**System not supported:**
 
 ![notsupported](https://user-images.githubusercontent.com/88332918/169347892-29692dde-2247-4a8a-b196-94169cac08f4.JPG)
 
-Bios update not available (System is up-to-date): 
+**Bios update not available (System is up-to-date):**
 
 ![Capture_7750_nobios](https://user-images.githubusercontent.com/88332918/169347997-34aff26d-db57-4f43-b13a-1f4f8423ff19.png)
 
-Bios update is available: 
+**Bios update is available:**
 
 ![Capture_7320detach_newbiosavl](https://user-images.githubusercontent.com/88332918/169348226-fe8c2d53-c2af-4bce-984c-0f34b032d8a9.PNG)
 
 
+**Microsoft Endpoint Manager - No Bios Update is available:**
+
+![image](https://user-images.githubusercontent.com/99353146/169537725-72f477f3-2b3e-4d0a-9d92-0c0da0a6a26e.png)
+
+
+**Microsoft Endpoint Manager - A new Bios Update is available:**
+
+![image](https://user-images.githubusercontent.com/99353146/169538152-17fab298-0d26-4875-8289-c4a91252dcd6.png)
 
