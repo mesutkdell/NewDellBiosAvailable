@@ -32,8 +32,8 @@ The script looks like this:
 <#
 _author_ = Mesut Kaptanoglu <mesut_kaptanoglu@dell.com>
 _twitter_ = @mkaptano
-_version_ = 1.0
-_Dev_Status_ = Test
+_version_ = 0.9
+_Dev_Status_ = Test / Experimental
 Copyright © 2022 Dell Inc. or its subsidiaries. All Rights Reserved.
 No implied support and test in test environment/device before using in any production environment.
 Licensed under the Apache License, Version 2.0 (the "License");
